@@ -42,7 +42,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-.un~
-.py~
-.pyc
-.swp
+*.un~
+*.py~
+*.pyc
+*.swp
+*~
